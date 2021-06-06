@@ -1,0 +1,8 @@
+Notify ChaosShota of new builds
+
+v1.0.0 Intital build
+v1.0.1 Fixed exit message not displaying
+v1.0.2 Removed dependencies
+v1.1.0 Personality Update
+v1.1.1 Fixed array misiaignment and response's spelling
+v1.1.2 Added answer counter, more responses to irrelvant answers, fixed some responses
